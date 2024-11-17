@@ -1,0 +1,11 @@
+.landingbg{
+    background-image: url("https://img.freepik.com/free-photo/flat-lay-clean-office-desk_23-2148219267.jpg?t=st=1731661087~exp=1731664687~hmac=c051bd37114063c90bce1a05db32ba6089d11e6a3251a09017b6a186bc562d05&w=1380");
+    background-size: cover;
+}
+.bg{
+    background-image: url("https://img.freepik.com/free-photo/cup-cappuccino-with-latte-art-vintage-camera-alarm-clock-pencil-eyeglasses-white-background_23-2147979099.jpg?t=st=1731661423~exp=1731665023~hmac=ad0cd9e133aee1bd417f9d36cbab1d77ec6213bc0fca5b2f931004fe83e386de&w=1060");
+    background-size: cover;
+}
+.loginbgclr{
+    background-color: rgba(57, 186, 240, 0.174);
+}
